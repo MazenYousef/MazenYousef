@@ -16,7 +16,7 @@
 
 <h2>📑 Certifications</h2>
 
-- [CompTIA Security+](https://www.credly.com/earner/earned/badge/b10e87f6-e65d-4952-a885-384278df3980)
+- [CompTIA Security+](https://www.credly.com/badges/b10e87f6-e65d-4952-a885-384278df3980/public_url)
 - [Ironhack Cybersecurity Bootcamp](https://www.credential.net/9b4ef5ae-af21-4f6f-a8bf-27f22573f185)
 - [ISC2 CC]()
 - [Project Management Professional PMP](https://www.credly.com/badges/51a833c9-1789-41db-9c82-eb63fe2f5e79/linked_in_profile)
