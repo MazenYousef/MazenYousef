@@ -2,10 +2,10 @@
  
 **Technical Project Manager · Cybersecurity · Test Management** · Stuttgart, Germany
  
-About 10 years across embedded software, test management, and end-to-end project delivery in automotive (Bosch, Valeo, CETITEC / Porsche Group), combined with hands-on cybersecurity work in cloud SOC labs, SIEM detection engineering, and blue-team practice.
+About 10 years across embedded software, test management, and end-to-end project delivery in automotive (Bosch, Valeo, CETITEC / Porsche Group), combined with hands-on cybersecurity work in cloud and on-premises SOC labs, SIEM detection engineering, and blue-team practice.
  
 - 📋 **Project delivery:** planning, risk management, stakeholder reporting, AI-assisted PM workflows
-- 🛡️ **Security:** Microsoft Sentinel, KQL, MITRE ATT&CK, alert triage, security governance
+- 🛡️ **Security:** SIEM (Microsoft Sentinel, Wazuh), KQL, MITRE ATT&CK, File Integrity Monitoring, CIS benchmarks, alert triage
 - 🧪 **Quality:** test strategy, validation, traceability, defect management
 ---
 
