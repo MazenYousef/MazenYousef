@@ -15,6 +15,7 @@ About 10 years across embedded software, test management, and end-to-end project
 | Project | What it shows | Stack |
 |---------|---------------|-------|
 | [SOC Azure Sentinel Honeypot Lab](https://github.com/MazenYousef/soc-azure-sentinel-honeypot-lab) | Exposed Windows honeypot → Sentinel. Brute-force detection with KQL, GeoIP origin analysis, scheduled analytics rule, MITRE ATT&CK mapping | Azure · Sentinel · KQL · AMA/DCR · NSG |
+| [SOC Wazuh SIEM/XDR Home Lab](https://github.com/MazenYousef/soc-wazuh-siem-home-lab) | Open-source SIEM on-prem: Windows agent onboarding, real-time File Integrity Monitoring, CIS benchmark assessment | Wazuh · Ubuntu · VirtualBox · Windows 11 |
 
 
 ## ⚙️ AI-Powered Project Management Tools
