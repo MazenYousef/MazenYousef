@@ -2,10 +2,10 @@
 
 **Technical Project Manager · Cybersecurity · Test Management** · Stuttgart, Germany
 
-PMP-certified Technical Project Manager with 10 years in safety-critical automotive and embedded software, from embedded development and test management to end-to-end delivery of multi-team projects at CETITEC (Porsche Group), Bosch and Valeo. Growing into cybersecurity through hands-on labs covering SIEM detection engineering, endpoint monitoring, and web application protection.
+PMP-certified Technical Project Manager with 10 years in safety-critical automotive and embedded software, from embedded development and test management to end-to-end delivery of multi-team projects at CETITEC (Porsche Group), Bosch and Valeo. Growing into cybersecurity through hands-on labs and investigations covering SIEM detection engineering, threat hunting, endpoint monitoring, and web application protection.
 
 - 📋 **Project delivery:** planning, risk management, stakeholder reporting, AI-assisted PM workflows
-- 🛡️ **Security operations:** SIEM (Microsoft Sentinel, Wazuh), KQL, MITRE ATT&CK, File Integrity Monitoring, alert triage
+- 🛡️ **Security operations:** SIEM (Microsoft Sentinel, Wazuh), KQL threat hunting, incident investigation, MITRE ATT&CK, File Integrity Monitoring, alert triage
 - 🌐 **Application & infrastructure security:** web application firewall (SafeLine), reverse proxy & TLS, CIS benchmarks, Azure, Linux
 - 🧪 **Quality:** test strategy, validation, traceability, defect management
 
@@ -16,6 +16,7 @@ PMP-certified Technical Project Manager with 10 years in safety-critical automot
 | Project | What it shows | Stack |
 |---------|---------------|-------|
 | [SOC Azure Sentinel Honeypot Lab](https://github.com/MazenYousef/soc-azure-sentinel-honeypot-lab) | Exposed Windows honeypot → Sentinel. Brute-force detection with KQL, GeoIP origin analysis, scheduled analytics rule, MITRE ATT&CK mapping | Azure · Sentinel · KQL · AMA/DCR · NSG |
+| [SOC Investigation: Phishing → C2 Beaconing](https://github.com/MazenYousef/soc-whiskermania-network-investigation) | KQL threat hunt across DNS, network-flow, proxy and email logs: phishing root cause, C2 beaconing, scoping, timeline, IOCs, MITRE mapping, detection rules | KQL · Azure Data Explorer · MITRE ATT&CK |
 | [SOC Wazuh SIEM/XDR Home Lab](https://github.com/MazenYousef/soc-wazuh-siem-home-lab) | Open-source SIEM on-prem: Windows agent onboarding, real-time File Integrity Monitoring, CIS benchmark assessment | Wazuh · Ubuntu · VirtualBox · Windows 11 |
 | [SafeLine WAF Home Lab](https://github.com/MazenYousef/safeline-waf-dvwa-home-lab) | Web application firewall as an HTTPS reverse proxy in front of DVWA: TLS setup, custom IP deny rule, HTTP flood protection, WAF bypass analysis | SafeLine · DVWA · Apache · Kali · OpenSSL |
 
